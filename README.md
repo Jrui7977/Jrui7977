@@ -1,4 +1,4 @@
-# Hello  👋🏼, I am[José Rui](https://www.linkedin.com/in/jrpndev/)
+# Hello  👋🏼, I am [José Rui](https://www.linkedin.com/in/jrpndev/)
 
 ## Code snippet about me 🤗
 ```typescript
